@@ -1,16 +1,45 @@
 <h2 align="center">Hi there, I´m <a href="https://www.linkedin.com/in/gonzalogorgojo/">Gonzalo Gorgojo!</a>👋</h2>
 
-<div style="background:#161b22; padding:16px; border-radius:10px;">
-Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://velocia.io/">Velocia</a>. 
-This GitHub is where I dump my personal projects and random experiments.
+<p align="center">
+Welcome to my Github profile, I´m a Software Engineer currently working at <a href="https://velocia.io/">Velocia</a>. 
+This is where I keep my personal projects and experiments.
 Feel free to poke around, fork something, or reach out if I can help with something.
+</p>
 
-👉 Check out my portfolio: <a href="https://www.gongorgojo.com/">www.gongorgojo.com</a>
-📬 Hit me up: <a href="mailto:gongorgojo@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/gonzalogorgojo/">Linkedin </a>
+---
 
-<p><span style="font-size: 15px; font-weight: bolder">Backend:</span> Nodejs <img height="20" width="20" src="https://cdn.simpleicons.org/node.js" />, Typescript <img height="20" width="20" src="https://cdn.simpleicons.org/typescript" />, Nestjs <img height="20" width="20" src="https://cdn.simpleicons.org/nestjs" />, Express <img height="20" width="20" src="https://cdn.simpleicons.org/express/blue" />, Golang <img height="20" width="20" src="https://cdn.simpleicons.org/go" /></p>
-<p><span style="font-size: 15px; font-weight: bolder">Frontend:</span> React <img height="20" width="20" src="https://cdn.simpleicons.org/react" />, Redux <img height="20" width="20" src="https://cdn.simpleicons.org/redux" />, NextJS <img height="20" width="20" src="https://cdn.simpleicons.org/nextdotjs" />, Vuejs <img height="20" width="20" src="https://cdn.simpleicons.org/vuedotjs" />, Vite <img height="20" width="20" src="https://cdn.simpleicons.org/Vite" /></p>
-<p><span style="font-size: 15px; font-weight: bolder">Mobile:</span> React Native <img height="20" width="20" src="https://cdn.simpleicons.org/react" />, Expo & Expo Router <img height="20" width="20" src="https://cdn.simpleicons.org/expo/white" /></p>
-<p><span style="font-size: 15px; font-weight: bolder">Database:</span> SQL (PostgreSQL <img height="20" width="20" src="https://cdn.simpleicons.org/postgresql" />, Mysql <img height="20" width="20" src="https://cdn.simpleicons.org/mysql" />, SQLite <img height="20" width="20" src="https://cdn.simpleicons.org/sqlite/blue/white" />, MariaDB <img height="20" width="20" src="https://cdn.simpleicons.org/mariadb" />), NOSQL (MongoDb <img height="20" width="20" src="https://cdn.simpleicons.org/mongodb" />)</p>
-<p><span style="font-size: 15px; font-weight: bolder">Cloud / Infra:</span> AWS, GCP <img height="20" width="20" src="https://cdn.simpleicons.org/googlecloud" />, Docker <img height="20" width="20" src="https://cdn.simpleicons.org/docker" />, Jenkins <img height="20" width="20" src="https://cdn.simpleicons.org/jenkins" />, Terraform <img height="20" width="20" src="https://cdn.simpleicons.org/terraform" />, Digital Ocean <img height="20" width="20" src="https://cdn.simpleicons.org/digitalocean" /></p>
-</div>
+- [🌎 Portfolio:](https://www.gongorgojo.com)
+- [LinkedIn: ](https://www.linkedin.com/in/gonzalogorgojo/)
+- [📩](mailto:gongorgojo@gmail.com)
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### Cloud / Infra
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongorgojo&layout=compact&theme=tokyonight"/>
+</p>
