@@ -41,5 +41,5 @@ Feel free to poke around, fork something, or reach out if I can help with someth
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongorgojo&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogorgojo&layout=compact&theme=tokyonight"/>
 </p>
