@@ -6,13 +6,9 @@ This is where I keep my personal projects and experiments.
 Feel free to poke around, fork something, or reach out if I can help with something.
 </p>
 
----
-
-- [🌎 Portfolio:](https://www.gongorgojo.com)
-- [LinkedIn: ](https://www.linkedin.com/in/gonzalogorgojo/)
-- [📩](mailto:gongorgojo@gmail.com)
-
----
+🌎 [Portfolio](https://www.gongorgojo.com) •
+💼 [LinkedIn](https://www.linkedin.com/in/gonzalogorgojo/) •
+📩 [Email](mailto:gongorgojo@gmail.com)
 
 # 🛠 Tech Stack
 
@@ -35,8 +31,6 @@ Feel free to poke around, fork something, or reach out if I can help with someth
 ### Cloud / Infra
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean)
-
----
 
 # 📊 GitHub Stats
 
