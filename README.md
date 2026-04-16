@@ -4,11 +4,12 @@
 Welcome to my Github profile, I´m a Software Engineer currently working at <a href="https://velocia.io/">Velocia</a>. 
 This is where I keep my personal projects and experiments.
 Feel free to poke around, fork something, or reach out if I can help with something.
+<p align="center">
+🌎 <a href="https://www.gongorgojo.com">Portfolio</a> •
+💼 <a href="https://www.linkedin.com/in/gonzalogorgojo/">LinkedIn</a> •
+📩 <a href="mailto:gongorgojo@gmail.com">Email</a>
 </p>
-
-🌎 [Portfolio](https://www.gongorgojo.com) •
-💼 [LinkedIn](https://www.linkedin.com/in/gonzalogorgojo/) •
-📩 [Email](mailto:gongorgojo@gmail.com)
+</p>
 
 # 🛠 Tech Stack
 
