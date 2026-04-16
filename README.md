@@ -2,13 +2,15 @@
 
 <p align="center">
 Welcome to my Github profile, I´m a Software Engineer currently working at <a href="https://velocia.io/">Velocia</a>. 
-This is where I keep my personal projects and experiments.
-Feel free to poke around, fork something, or reach out if I can help with something.
+This is where I keep my personal projects and experiments. Feel free to poke around, fork something, or reach out if I can help with something.
 <p align="center">
 🌎 <a href="https://www.gongorgojo.com">Portfolio</a> •
 💼 <a href="https://www.linkedin.com/in/gonzalogorgojo/">LinkedIn</a> •
 📩 <a href="mailto:gongorgojo@gmail.com">Email</a>
 </p>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogorgojo&layout=compact&theme=tokyonight"/>
 </p>
 
 # 🛠 Tech Stack
@@ -32,9 +34,3 @@ Feel free to poke around, fork something, or reach out if I can help with someth
 ### Cloud / Infra
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean)
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogorgojo&layout=compact&theme=tokyonight"/>
-</p>
